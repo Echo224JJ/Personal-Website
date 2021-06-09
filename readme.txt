@@ -2,20 +2,20 @@
 
 DESCRIPTION:
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+EPITOME is a beautifully crafted free resume and personal portfolio website template. It is modern, 
+trendy and features a visually attractive design. An ideal website template for creative 
+professionals and freelancers who want to create an online presence that would stand out from 
+the average. Epitome has all the important elements of an effective resume personal portfolio 
+website template: an awesome fullscreen hero banner, about and qualification section, services, 
+portfolio, testimonial and contact section. Epitome is also mobile and retina ready. 
+It will look great on any devices from mobile to desktop and on any screen resolutions.
 
 ==================================================================================================
 
 
 LICENSE:
 
-This free resource is provided by styleshout.com and is free to use in 
+This free resource is provided by Styleshout.com and is free to use in 
 both personal and commercial projects.
 
 
@@ -72,21 +72,20 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
+Since EPITOME is distributed for free, support is not offered. EPITOME is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
 following tutorials:
 
- - https://marksheet.io/
+ - https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
  - http://learn.shayhowe.com/html-css/
 
 These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
+jQuery in your skill-set, you can also check out these tutorials: 
 
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
+ - https://code.tutsplus.com/courses/30-days-to-learn-jquery
+ - http://try.jquery.com/
 
 
 ------------------------------------------------------------------------------------------------------ 
@@ -107,22 +106,26 @@ SOURCES AND CREDITS:
 I've used the following resources as listed.
 
 Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
+ - Lora Font (https://fonts.google.com/specimen/Lora)
+ - Roboto Font (https://fonts.google.com/specimen/Roboto) 
+ - Frank Ruhl Libre Font (https://fonts.google.com/specimen/Frank+Ruhl+Libre)
 
 Icons:
+ - Font Awesome (https://fontawesome.com/)
  - Iconmonstr (https://iconmonstr.com/)
+ 
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
  
 Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
+ - JQuery (http://jquery.com/)
+ - Modernizr (http://modernizr.com/)
+ - Masonry JS (https://masonry.desandro.com/)
+ - ImagesLoaded (https://imagesloaded.desandro.com/)
+ - Slick slider (http://kenwheeler.github.io/slick/)
+ - Animate On Scroll (https://michalsnik.github.io/aos/)
+ - Pace JS (https://github.hubspot.com/pace/docs/welcome/)
 
 -------------------------------------------------------------------------------------------------------
 
